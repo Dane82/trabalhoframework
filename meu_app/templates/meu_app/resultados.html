@@ -1,0 +1,19 @@
+<!-- Resultados HTML -->
+<html>
+  <body>
+    <h1>Resultados da Análise</h1>
+    
+    <h2>Estatísticas Descritivas</h2>
+    <div>
+      {{ estatisticas|safe }}
+    </div>
+    
+    <h2>Dados Carregados</h2>
+    <div>
+      {{ tabela|safe }}
+    </div>
+
+    <h2>Precisão do Modelo KNN (Accuracy)</h2>
+    <p>{{ accuracy }}%</p>  <!-- Exibe a precisão já formatada -->
+  </body>
+</html>
