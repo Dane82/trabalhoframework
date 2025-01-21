@@ -20,7 +20,7 @@ Próximos Passos:
 Ferramentas e Bibliotecas Utilizadas:
 1.	Framework Web: o	Django: Framework de desenvolvimento web para construção da aplicação, roteamento de URLs e gerenciamento de templates.
 2.	Bibliotecas para Manipulação de Dados: o	Pandas: Biblioteca para manipulação e análise de dados, utilizada para carregar, limpar e transformar os dados.
-3.	Bibliotecas para Machine Learning: o	scikit-learn: Biblioteca para Machine Learning, usada para implementar e treinar o modelo de Regressão Linear, além de avaliar a performance do modelo com métricas como Erro Quadrático Médio (MSE).
+3.	Bibliotecas para Machine Learning: o	scikit-learn: Biblioteca para Machine Learning, usada para implementar e treinar o modelo de Regressão Linear.
 4.	Interface de Exibição de Resultados: o	HTML (com Django Templates): Para renderizar as tabelas de dados e resultados de predições no front-end.
 5.	Biblioteca para Leitura de Arquivos: o	Pandas (também): Usada para carregar arquivos CSV ou Excel na aplicação.
 6.	Ambiente de Desenvolvimento: o	Python 3.x: Linguagem de programação utilizada para implementar a lógica do backend e o	VS Code / IDE.
